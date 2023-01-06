@@ -26,7 +26,7 @@ plt.figure()
 plt.bar(data['Year'], data ['Dividends'])
 plt.ylabel('Dividend Yield ($)')
 plt.xlabel('Year')
-plt.title('Microsoft Dividen Histroy')
+plt.title('Dividen Histroy')
 plt.xlim(2002,2020)
 plt.show()
 
